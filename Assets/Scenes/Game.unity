@@ -12259,6 +12259,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Skeleton (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6273735291872905159, guid: f91a8f7e7c1ed734281b86cf8cfcb9d4,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6273735291872905160, guid: f91a8f7e7c1ed734281b86cf8cfcb9d4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -12526,7 +12531,7 @@ MonoBehaviour:
   totalFloorCount: 610
   itemSpawnRate: 5
   enemySpawnRate: 5
-  dungeonType: 0
+  dungeonType: 2
   minX: 0
   maxX: 0
   minY: 0
@@ -18913,6 +18918,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Skeleton
+      objectReference: {fileID: 0}
+    - target: {fileID: 6273735291872905159, guid: f91a8f7e7c1ed734281b86cf8cfcb9d4,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6273735291872905160, guid: f91a8f7e7c1ed734281b86cf8cfcb9d4,
         type: 3}
