@@ -3,7 +3,7 @@
 
 ## Descripción del juego
 
-Bull et hell (Toro Y infierno) es un juego, "Bullet Hell" (infierno de balas) por turnos basado en movimientos por casillas. 
+Bull et hell (Toro e infierno) es un juego, "Bullet Hell" (infierno de balas) por turnos basado en movimientos por casillas. 
 
 Los juegos "Bullet Hell" se caracterizan en juegos 2D Top down donde hay una enorme cantidad de balas y el jugador tiene que esquivarlas y disparar a sus enemigos.
 
