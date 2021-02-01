@@ -1,6 +1,9 @@
 # Prototipo juego 2D
 
 
+![](gif.gif)
+
+
 ## Descripción del juego
 
 Bull et hell (Toro e infierno) es un juego, "Bullet Hell" (infierno de balas) por turnos basado en movimientos por casillas. 
