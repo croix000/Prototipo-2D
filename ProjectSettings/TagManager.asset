@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Wall
+  - Crossair
+  - Floor
+  - Minimap
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Wall
+  - Obstacles
+  - Floor
+  - Minimap
+  - Bullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 1650136797
+    locked: 0
+  - name: Wall
+    uniqueID: 3069818605
+    locked: 0
+  - name: Foreground
+    uniqueID: 3642503087
+    locked: 0
+  - name: Character
+    uniqueID: 1503113655
+    locked: 0
+  - name: Weapon
+    uniqueID: 3812428007
+    locked: 0
+  - name: Minimap
+    uniqueID: 1721565211
+    locked: 0
